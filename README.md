@@ -2,4 +2,4 @@
 
 VS Code's terminal flickering too much. I suggest you to run this code on your terminal
 
-![balls](https://user-images.githubusercontent.com/21236709/125825167-70e70dd3-043f-41f6-bf9d-fa193810fdfb.gif)
+![b2fba4eec24eec253b564526ae75d3faba24ce22](https://user-images.githubusercontent.com/21236709/146800858-448ec6ff-e47f-4ccc-88d3-0cd6e1bb538a.gif)
